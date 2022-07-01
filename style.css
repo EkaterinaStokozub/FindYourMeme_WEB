@@ -27,7 +27,7 @@ html {
     padding-bottom: 200px;
 }
 
-.button button{
+.button .buttons{
     color: #E7EEE7;
     background-color:#D64E52;
     border-radius: 10px;
@@ -41,11 +41,11 @@ html {
     appearance: none;
 }
 
-.button button:hover {
+.button .buttons:hover {
     background-color: #F07377;
 }
 
-.button button:focus {
+.button .buttons:focus {
     outline: none;
   box-shadow: 0 0 0 3px #e1bbaede;
 }
